@@ -1,0 +1,12 @@
+flask
+flask-sqlalchemy
+sqlalchemy
+gunicorn
+pymysql
+cryptography
+python-dotenv
+numpy
+requests
+pandas
+reportlab
+plotly
